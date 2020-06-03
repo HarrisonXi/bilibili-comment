@@ -1,2 +1,2 @@
 # bilibili-comment
-comment feature requirement for bilibili.github.io
+comment feature requirement for http://bilibili.github.io/
